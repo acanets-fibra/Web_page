@@ -136,8 +136,9 @@ export default function Home() {
           </a>
         </div>
 
-        <MobileMenu />
       </header>
+
+      <MobileMenu />
 
       <section className="hero" id="inicio">
         <div className="hero-copy">
